@@ -7,9 +7,24 @@
   <a href="https://www.linkedin.com/in/satyam-garodia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:Satyamgarodia1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/satyam.garodia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  
 </p>
 
+
 </div>
+
+---
+
+## 🤖 AI Usage & Productivity
+
+> I use AI as a development multiplier — from architecture and rapid prototyping to debugging, testing, and production optimization.
+
+<div align="center">
+  
+[![Tokscale Stats](https://tokscale.ai/api/embed/Satyamgarodia/svg?color=green&graph=1&tokens=full&cost=compact)](https://tokscale.ai/u/Satyamgarodia)
+
+</div>
+
 
 ---
 
